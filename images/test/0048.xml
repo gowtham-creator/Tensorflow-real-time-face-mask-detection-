@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0048.jpg</filename>
+	<path>C:\Users\thor0\RealTimeObjectDetection\Tensorflow\workspace\images\images\0048.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>158</ymin>
+			<xmax>338</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

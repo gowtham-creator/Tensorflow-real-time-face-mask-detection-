@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0003 - Copy - Copy - Copy.jpg</filename>
+	<path>C:\Users\thor0\RealTimeObjectDetection\Tensorflow\workspace\images\images\0003 - Copy - Copy - Copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>2002</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1185</xmin>
+			<ymin>831</ymin>
+			<xmax>2011</xmax>
+			<ymax>1738</ymax>
+		</bndbox>
+	</object>
+</annotation>
